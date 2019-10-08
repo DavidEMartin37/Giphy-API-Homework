@@ -1,1 +1,1 @@
-# Giphy-API-Homework
+Sports Giphy API
